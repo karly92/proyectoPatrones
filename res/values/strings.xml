@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GKStore</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="cpant_nombre">
+        <item>Pantalon de Vestir</item>
+        <item>Pantalon Casual</item>
+        <item>Pantalon Capri</item>
+    </string-array>
+    
+   <string-array name="cpant_precios">
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+    </string-array>
+
+</resources>
